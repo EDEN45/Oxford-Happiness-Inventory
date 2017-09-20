@@ -1,0 +1,28 @@
+﻿{
+	"name": "dumb bird",
+	"short_name": "dumb bird",
+	"start_url": "/",
+	"display": "fullscreen",
+	"orientation": "any",
+	"icons": [{
+		"src": "static/game/icon-16.png",
+		"sizes": "16x16",
+		"type": "image/png"
+	}, {
+		"src": "static/game/icon-32.png",
+		"sizes": "32x32",
+		"type": "image/png"
+	}, {
+		"src": "static/game/icon-128.png",
+		"sizes": "128x128",
+		"type": "image/png"
+	}, {
+		"src": "static/game/icon-256.png",
+		"sizes": "144x144",
+		"type": "image/png"
+	}, {
+		"src": "static/game/icon-256.png",
+		"sizes": "256x256",
+		"type": "image/png"
+	}]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "vyacheslav/dumb_bird",
+    "description": "Игра о прыгающей птице",
+    "type": "project",
+    "license": "CC",
+    "autoload": {
+        "psr-4": {
+	       "dumb_bird\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "EDEN45",
+            "email": "futurionerv@outlook.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
