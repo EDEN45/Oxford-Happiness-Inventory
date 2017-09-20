@@ -6,6 +6,14 @@ body {
 
 }
 
+ol li {
+    margin-bottom: 10px;
+}
+
+ul {
+    padding-bottom: 5px;
+}
+
 .container {
 		width: 640px;
 		margin-right: auto;
@@ -42,7 +50,7 @@ body {
     display: inline-block;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 200px;
+    width: 300px;
     background-color: #00d3f8;
     color: #ffffff;
     font-size: 25px;
@@ -116,9 +124,9 @@ body {
 .login-form {
     margin: 0 auto;
     padding: 15px;
-    width: 300px;
-    text-align: center;
-    text-transform: uppercase;
+    
+    
+    
     font-size: 18px;
     background-color: #ffffff;
     border-radius: 10px;
