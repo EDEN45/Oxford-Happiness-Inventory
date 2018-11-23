@@ -8,7 +8,6 @@
 <body>
   <div class="main">
       <div class="container">
-          <h1>Жопа</h1>
          <h1>Обновленный Оксфордский опросник счастья (OHI, Oxford Happiness Inventory)</h1>
           <div>
             <h3> Инструкция</h3>
