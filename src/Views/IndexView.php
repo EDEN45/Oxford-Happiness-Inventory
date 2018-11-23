@@ -6,17 +6,6 @@
     <link rel="stylesheet" href="static/css/main.css">
 </head>
 <body>
-
-  <!--
-  <div class="header">
-      <div class="container">
-          <a href="/">Главная</a>
-          <a href="game">Играть</a>
-      </div>
-  </div>
-
--->
-
   <div class="main">
       <div class="container">
          <h1>Обновленный Оксфордский опросник счастья (OHI, Oxford Happiness Inventory)</h1>
